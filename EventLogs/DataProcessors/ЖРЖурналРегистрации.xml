@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<DataProcessor uuid="1c6daf61-2f52-49da-8fa5-28bcb97405e8">
+		<InternalInfo>
+			<xr:GeneratedType name="DataProcessorObject.ЖРЖурналРегистрации" category="Object">
+				<xr:TypeId>98abc2a7-9ae1-4c75-bd0e-9b31c0753929</xr:TypeId>
+				<xr:ValueId>0b773dca-eb5d-4971-9f9c-1e65aa63f673</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DataProcessorManager.ЖРЖурналРегистрации" category="Manager">
+				<xr:TypeId>18041b3e-c2d3-497d-8206-c97c9a017f21</xr:TypeId>
+				<xr:ValueId>cc82a1b1-5efa-46b5-881a-d229c54b2bb1</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ЖРЖурналРегистрации</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Журнал регистрации (внешние данные)</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment>Для просморта выгруженных данных из журнала регистрации</Comment>
+			<UseStandardCommands>true</UseStandardCommands>
+			<DefaultForm>DataProcessor.ЖРЖурналРегистрации.Form.Форма</DefaultForm>
+			<AuxiliaryForm/>
+			<IncludeHelpInContents>false</IncludeHelpInContents>
+			<ExtendedPresentation/>
+			<Explanation/>
+		</Properties>
+		<ChildObjects>
+			<Form>Форма</Form>
+			<Form>Событие</Form>
+			<Form>ФормаОтбора</Form>
+			<Form>ФормаВыбораСвойстваОтбора</Form>
+		</ChildObjects>
+	</DataProcessor>
+</MetaDataObject>

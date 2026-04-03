@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.ЖРСоединения" id="5cdc4804-a1d8-499d-9bd7-dc0995d6d2c0" configVersion="1648de349d24fb42aeadeb283baa6349ba7abad1">
+			<Metadata name="Catalog.ЖРСоединения.Attribute.Сервер" id="09b8e9c5-a762-4f99-afd0-e94304645f57"/>
+			<Metadata name="Catalog.ЖРСоединения.Attribute.ПоУмолчанию" id="0f2b264a-aef0-4bae-81d9-70c619ecbb03"/>
+			<Metadata name="Catalog.ЖРСоединения.Attribute.Провайдер" id="13298c92-536e-4ebd-a850-0de1c044f794"/>
+			<Metadata name="Catalog.ЖРСоединения.Attribute.Порт" id="273945a1-35e6-4403-94d4-093f89b927e2"/>
+			<Metadata name="Catalog.ЖРСоединения.Attribute.БазаДанных" id="43e0e7e5-3a7c-458c-b50c-2408420f8e9a"/>
+			<Metadata name="Catalog.ЖРСоединения.Attribute.Драйвер" id="8d2e68cc-82eb-4497-9c6c-a93e70bbb869"/>
+			<Metadata name="Catalog.ЖРСоединения.Attribute.ПользовательБД" id="c8ae0f72-a988-4425-903f-fac9d4c6dc94"/>
+			<Metadata name="Catalog.ЖРСоединения.Attribute.Пароль" id="f7d774aa-947d-40ea-b8d9-24ee7b1048f2"/>
+		</Metadata>
+		<Metadata name="Catalog.ЖРСоединения.Form.ФормаЭлемента" id="d44dce8c-5ccc-44bb-a5f2-12abc7bb75a5" configVersion="86fabf074d0de5e688ac65af58209822abb78848"/>
+		<Metadata name="Catalog.ЖРСоединения.Form.ФормаЭлемента.Form" id="d44dce8c-5ccc-44bb-a5f2-12abc7bb75a5.0" configVersion="a91a3343e501544ef1a395745b5ff61c15a5ddd9"/>
+		<Metadata name="Catalog.ЖРСоединения.ManagerModule" id="5cdc4804-a1d8-499d-9bd7-dc0995d6d2c0.3" configVersion="21d181889523bfc7a3017adf3e310edbba8fe7b3"/>
+		<Metadata name="Catalog.Пользователи" id="01840455-5b3a-4359-af0c-efe7fd7a2ed1" configVersion="f3bbd586471a0736f39ccc031e90d04a5662b2a7"/>
+		<Metadata name="CommonModule.ЖРОбщегоНазначения" id="4061572d-f470-4171-bde3-40ab37845496" configVersion="a88a815262cc2465ea909cc40098821a773e2060"/>
+		<Metadata name="CommonModule.ЖРОбщегоНазначения.Module" id="4061572d-f470-4171-bde3-40ab37845496.0" configVersion="48ec227c9e63694f77f0344c997317020859a2cc"/>
+		<Metadata name="CommonModule.ЖРПодключение" id="e5cab584-0422-44e9-9d2a-a89072e9a79e" configVersion="1015dc44ea3153092ef7ef9153a09575d33df8c3"/>
+		<Metadata name="CommonModule.ЖРПодключение.Module" id="e5cab584-0422-44e9-9d2a-a89072e9a79e.0" configVersion="c7f82694ed863b5e5a19fd9e602cfb5c5ba5fcdc"/>
+		<Metadata name="CommonModule.ЖРСлужебныйСервер" id="da80b094-53fa-4ac7-92fa-22ac783b4a41" configVersion="0125733a786cc9fbec3843f4cc9fa94230383723"/>
+		<Metadata name="CommonModule.ЖРСлужебныйСервер.Module" id="da80b094-53fa-4ac7-92fa-22ac783b4a41.0" configVersion="5d76c39035ed6e5d65592b0bba62228f5b39c5e6"/>
+		<Metadata name="Configuration.ЖурналыРегистрации" id="fd6bba1a-7e4e-40c9-842d-19a10a28501c" configVersion="56330daf619039d1849e9e2524225e0cb57ce5ea"/>
+		<Metadata name="Constant.ИдентификаторИБ" id="d8f5aa0f-4d67-48a0-bfc2-af9483b67f35" configVersion="6edd207dfa2144c8990207aac6100057936cdbc4"/>
+		<Metadata name="DataProcessor.ЖРЖурналРегистрации" id="1c6daf61-2f52-49da-8fa5-28bcb97405e8" configVersion="2183e1cd63ece49727eeec72215cbd1af0a944d7"/>
+		<Metadata name="DataProcessor.ЖРЖурналРегистрации.Form.Событие" id="3158547a-bf9f-48d6-a43f-e334745ac77d" configVersion="b4eb0f817ede74419f2e193fdb349d5aa2479db0"/>
+		<Metadata name="DataProcessor.ЖРЖурналРегистрации.Form.Событие.Form" id="3158547a-bf9f-48d6-a43f-e334745ac77d.0" configVersion="83eccc4cc4fea85d9628ec5271612c9e4de3215f"/>
+		<Metadata name="DataProcessor.ЖРЖурналРегистрации.Form.Событие.Help" id="3158547a-bf9f-48d6-a43f-e334745ac77d.1" configVersion="b228f715363e3e1fd472afa75cf482b02daa1828"/>
+		<Metadata name="DataProcessor.ЖРЖурналРегистрации.Form.Форма" id="dfdbd0d7-33e2-46ad-8b50-caf04c885b17" configVersion="136c07185d0c759d9cfc4900a6ed9296d109845b"/>
+		<Metadata name="DataProcessor.ЖРЖурналРегистрации.Form.Форма.Form" id="dfdbd0d7-33e2-46ad-8b50-caf04c885b17.0" configVersion="95873051b8bc7b6209e3591a5fd25dec26d8c2ec"/>
+		<Metadata name="DataProcessor.ЖРЖурналРегистрации.Form.ФормаВыбораСвойстваОтбора" id="8601c097-6199-4b10-985c-bea9f00355f2" configVersion="a56d2a5a72d529c17105a35b41d10e62dbc1a46f"/>
+		<Metadata name="DataProcessor.ЖРЖурналРегистрации.Form.ФормаВыбораСвойстваОтбора.Form" id="8601c097-6199-4b10-985c-bea9f00355f2.0" configVersion="8dbd11733f3d7e1371222e54d0a2335efed153c9"/>
+		<Metadata name="DataProcessor.ЖРЖурналРегистрации.Form.ФормаОтбора" id="e62dc368-ba61-4dc9-9eef-7eb4041119ed" configVersion="001334e4a9499582b5d7bce3b1e622f8986a552c"/>
+		<Metadata name="DataProcessor.ЖРЖурналРегистрации.Form.ФормаОтбора.Form" id="e62dc368-ba61-4dc9-9eef-7eb4041119ed.0" configVersion="0ccbc6c3e3b31578bca25a6e16466add3ddd88a8"/>
+		<Metadata name="DataProcessor.ЖРЖурналРегистрации.ObjectModule" id="1c6daf61-2f52-49da-8fa5-28bcb97405e8.0" configVersion="38ab7c4e5a340612dc795ed006ccd2cac72bda8d"/>
+		<Metadata name="Language.Русский" id="8005e9b8-e9ed-4f77-a118-3970c3592802" configVersion="1d9b60f259e67ab9b9f3e34e94468ad8371189bb"/>
+		<Metadata name="Report.ЖРАнализЖурналаРегистрации" id="00470c64-547c-435e-929f-18cda860bd4e" configVersion="f04c2a708193b3a331aed2e2e5bff294f61531bc"/>
+		<Metadata name="Report.ЖРАнализЖурналаРегистрации.ObjectModule" id="00470c64-547c-435e-929f-18cda860bd4e.0" configVersion="f0fd6d45b4be0e683cc60354f7f5a0d6833de287"/>
+		<Metadata name="Report.ЖРАнализЖурналаРегистрации.Template.ОсновнаяСхемаКомпоновкиДанных" id="3462c694-4932-4249-9b78-3abaceec1129" configVersion="e2d338dccc85907f5c11ef70889ea9572b0609d6"/>
+		<Metadata name="Report.ЖРАнализЖурналаРегистрации.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="3462c694-4932-4249-9b78-3abaceec1129.0" configVersion="d8b855b1b59f1976c89d503503c5c9c6d5ec718b"/>
+		<Metadata name="Role.ЖРОсновнаяРоль" id="baf022e8-3b2b-405e-bba2-17bd43e177f1" configVersion="3c65d5200940e504f9c5e4fbee18b8bf17938490"/>
+		<Metadata name="ScheduledJob.ЖРВыгрузкаЗаПредСутки" id="8295386e-51e8-49c3-96ec-f20bbd397f68" configVersion="b38f5c129678030ccd010518515fc7c728508087"/>
+		<Metadata name="ScheduledJob.ЖРВыгрузкаЗаПредСутки.Schedule" id="8295386e-51e8-49c3-96ec-f20bbd397f68.0" configVersion="cf5f94c7d8dab12a3af5631317904ae1077a7a50"/>
+		<Metadata name="Subsystem.ЖРЖурналыРегистрации" id="25caa389-6e07-48ac-8f15-0e51e7795bd9" configVersion="498763441a18c2645f77d3d1ffaf9de37098e689"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
